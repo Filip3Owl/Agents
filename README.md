@@ -46,8 +46,8 @@ Certifique-se de ter o Python 3.8+ instalado.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
-    cd seu-projeto
+    git clone https://github.com/Filip3Owl/seu-projeto.git
+    cd Agents
     ```
 2.  **Crie e ative um ambiente virtual (recomendado):**
     ```bash
